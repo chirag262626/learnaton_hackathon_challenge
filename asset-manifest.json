@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learnaton_hackathon_challenge/static/css/main.c3852721.css",
+    "main.js": "/learnaton_hackathon_challenge/static/js/main.ed8b6ba0.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/learnaton_hackathon_challenge/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/learnaton_hackathon_challenge/index.html",
+    "main.c3852721.css.map": "/learnaton_hackathon_challenge/static/css/main.c3852721.css.map",
+    "main.ed8b6ba0.js.map": "/learnaton_hackathon_challenge/static/js/main.ed8b6ba0.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/learnaton_hackathon_challenge/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3852721.css",
+    "static/js/main.ed8b6ba0.js"
+  ]
+}
