@@ -1,7 +1,7 @@
 # learnaton_hackathon_challenge
 discussion forums application MERN stack
 # 💬 Learnato Discussion Forum Microservice
-LIVE ON GITHUB PGS (https://chirag262626.github.io/CodeStudy/)
+LIVE ON GITHUB PGS https://chirag262626.github.io/learnaton_hackathon_challenge/
 ### 🏆 Built for the **Learnato Hackathon**
 **Theme:** *Empower Learning Through Conversation*  
 **Goal:** Build a modular, browser-based discussion forum microservice that allows learners and instructors to share questions, insights, and real-time discussions — designed to plug into the Learnato ecosystem.
