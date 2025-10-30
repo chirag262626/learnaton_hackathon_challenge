@@ -55,9 +55,4 @@ Users can:
    ```
 
    The backend will typically run on **[http://localhost:5000](http://localhost:5000)**
-   and the frontend on **[http://localhost:3000](http://localhost:3000)** (or **5173** if using Vite).
-
----
-
-Would you like me to also add a **combined run section using `concurrently`** (so both frontend and backend start with one command like `npm run dev`)? It looks very clean for hackathon demos.
-
+   and the frontend on **[http://localhost:3000](http://localhost:3000)
