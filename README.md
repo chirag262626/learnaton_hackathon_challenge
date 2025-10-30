@@ -28,3 +28,36 @@ Users can:
 
 ## 🧩 Folder Structure
 
+---
+
+### 🧩 Running the Project Locally
+
+1. **Install Dependencies**
+   Navigate to both the `server/` and `client/` directories and install all required packages:
+
+   ```bash
+   cd server
+   npm install
+
+   cd ../client
+   npm install
+   ```
+
+2. **Start the Applications**
+   Once dependencies are installed, start both the backend and frontend servers:
+
+   ```bash
+   cd server
+   npm start
+
+   cd ../client
+   npm start
+   ```
+
+   The backend will typically run on **[http://localhost:5000](http://localhost:5000)**
+   and the frontend on **[http://localhost:3000](http://localhost:3000)** (or **5173** if using Vite).
+
+---
+
+Would you like me to also add a **combined run section using `concurrently`** (so both frontend and backend start with one command like `npm run dev`)? It looks very clean for hackathon demos.
+
